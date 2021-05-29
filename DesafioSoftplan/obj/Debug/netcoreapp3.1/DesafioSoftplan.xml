@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesafioSoftplan</name>
+    </assembly>
+    <members>
+        <member name="M:DesafioSoftplan.Controllers.CalculaJurosController.CalculaJuros(System.Double,System.Int32)">
+            <summary>
+            Faz o cálculo, em memória, de juros compostos.
+            </summary>
+        </member>
+        <member name="M:DesafioSoftplan.Controllers.CalculaJurosController.ShowMeTheCode">
+            <summary>
+            Retorna a url do repositório onde se encontra o código-fonte.
+            </summary>
+        </member>
+        <member name="M:DesafioSoftplan.Controllers.TaxaJurosController.TaxaJuros">
+            <summary>
+            Retorna a taxa de juros.
+            </summary>
+        </member>
+    </members>
+</doc>
